@@ -1,4 +1,4 @@
-### Sophomore at Bilkent University CS department.
+### Junior at Bilkent University CS department.
 
 <!--
 **mHuseyin0/mHuseyin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
